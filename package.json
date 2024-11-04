@@ -1,0 +1,17 @@
+{
+  "name": "notification-reminder",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "node-schedule": "^2.1.1",
+    "nodemailer": "^6.9.16"
+  }
+}
